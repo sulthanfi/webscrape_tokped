@@ -26,6 +26,9 @@ Data Scientist & Data Analyst<br>
 ## 🎯 **Objective**
 
 -Memetakan Harga dan Kualitas Produk Seblak: Mengidentifikasi perbedaan harga produk seblak berdasarkan kategori, lokasi, dan rating untuk memahami faktor-faktor yang mempengaruhi harga.
+
 -Analisis Preferensi Konsumen: Menggali data rating dan ulasan konsumen untuk mengetahui preferensi dan ekspektasi konsumen terhadap produk seblak.
+
 -Insight Pasar dan Kompetitor: Mengidentifikasi pola penawaran dan perbandingan antar penjual untuk membantu menyusun strategi pemasaran atau pengembangan produk.
+
 -Tren Pasar: Melihat popularitas seblak di pasar e-commerce sebagai bagian dari tren kuliner atau produk jajanan yang diminati.
